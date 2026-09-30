@@ -11,7 +11,7 @@ All `*/SKILL.md` files in this repository.
 
 1. Valid YAML frontmatter with `name` and `description`
 2. Folder name matches `name` field
-3. Descriptions include what + when (trigger terms)
+3. Descriptions include what + when (`Use when` trigger terms)
 4. Body under 500 lines
 5. No HTML comments, TODO/FIXME placeholders, or `//` line comments
 6. No platform lock-in wording

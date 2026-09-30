@@ -25,4 +25,4 @@ description: Write strict, idiomatic TypeScript. Use when editing TS/TSX code, f
 
 - [ ] `tsc` / typecheck passes for touched packages
 - [ ] Public exports have intentional, stable types
-- [ ] No new `any` without an explicit boundary comment requirement from the repo
+- [ ] No new `any` unless required at a typed boundary by the repo

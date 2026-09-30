@@ -1,6 +1,6 @@
 ---
 name: spec-driven
-description: Turn requirements into a short executable spec before coding. Use for features with acceptance criteria, multi-step product work, or ambiguous requests.
+description: Turn requirements into a short executable spec before coding. Use when building features with acceptance criteria, multi-step product work, or ambiguous requests.
 ---
 
 # Spec Driven

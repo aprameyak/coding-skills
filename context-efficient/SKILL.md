@@ -1,6 +1,6 @@
 ---
 name: context-efficient
-description: Minimize token use while remaining correct. Use for large repos, long sessions, or when context pressure is high.
+description: Minimize token use while remaining correct. Use when working in large repos, long sessions, or when context pressure is high.
 ---
 
 # Context Efficient

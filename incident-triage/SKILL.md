@@ -1,6 +1,6 @@
 ---
 name: incident-triage
-description: Triage production incidents quickly and safely. Use for outages, elevated errors, customer-impacting bugs, or on-call style debugging.
+description: Triage production incidents quickly and safely. Use when handling outages, elevated errors, customer-impacting bugs, or on-call debugging.
 ---
 
 # Incident Triage

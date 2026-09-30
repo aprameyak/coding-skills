@@ -1,6 +1,6 @@
 ---
 name: verify-work
-description: Verify changes before claiming done. Use after implementations, fixes, refactors, or when the user asks if work is complete.
+description: Verify changes before claiming done. Use when finishing implementations, fixes, or refactors, or when the user asks if work is complete.
 ---
 
 # Verify Work

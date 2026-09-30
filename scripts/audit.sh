@@ -53,6 +53,11 @@ check_skill() {
     fail=$((fail + 1))
   fi
 
+  if ! echo "$desc" | grep -q 'Use when'; then
+    echo "FAIL $name: description missing 'Use when' trigger"
+    fail=$((fail + 1))
+  fi
+
   if ! echo "$skill" | grep -Eq '^[a-z0-9-]+$'; then
     echo "FAIL $name: invalid name chars"
     fail=$((fail + 1))

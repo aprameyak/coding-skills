@@ -11,7 +11,7 @@ Agent Skills pack organized as `skill-name/SKILL.md`. Platform-agnostic. Copy an
 | Codex / other | Use the agent’s documented skills path; format is standard Agent Skills (`SKILL.md` + YAML frontmatter) |
 
 ```bash
-git clone <repo-url> coding-skills
+git clone git@github.com:aprameyak/coding-skills.git
 cp -R coding-skills/plan-before-code ~/.cursor/skills/
 ```
 

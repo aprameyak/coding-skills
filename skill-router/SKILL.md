@@ -1,6 +1,6 @@
 ---
 name: skill-router
-description: Choose the right skill workflow for the current task. Use at session start, when switching tasks, or when unsure which skill applies.
+description: Choose the right skill workflow for the current task. Use when starting a session, switching tasks, or deciding which skill applies.
 ---
 
 # Skill Router

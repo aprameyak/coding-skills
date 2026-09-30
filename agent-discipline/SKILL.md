@@ -1,6 +1,6 @@
 ---
 name: agent-discipline
-description: Prevent over-engineering, silent assumptions, and unrelated edits. Use for any coding task, especially when agents tend to sprawl or invent requirements.
+description: Prevent over-engineering, silent assumptions, and unrelated edits. Use when coding any task, especially when agents sprawl or invent requirements.
 ---
 
 # Agent Discipline

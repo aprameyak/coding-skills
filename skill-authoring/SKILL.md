@@ -32,7 +32,7 @@ description: What it does. Use when <triggers>.
 - One skill, one job
 - Prefer checklists, templates, and short steps
 - Keep `SKILL.md` well under 500 lines; push detail to references
-- No HTML comments, TODOs, or platform lock-in
+- No HTML comment blocks, placeholder stubs, or platform lock-in
 - Include exit criteria / verification when quality matters
 
 ## Process

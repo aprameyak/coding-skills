@@ -1,11 +1,20 @@
 # Audit Report
 
 Date: 2026-09-29
-Auditor: automated `scripts/audit.sh` + manual review
+Auditor: automated `scripts/audit.sh` + manual review against popular public skill packs
 
 ## Scope
 
 All `*/SKILL.md` files in this repository.
+
+## External references reviewed
+
+- Anthropic Agent Skills format (`SKILL.md` + progressive disclosure)
+- addyosmani/agent-skills lifecycle map (spec/plan/build/verify/review/ship)
+- Superpowers-style brainstorm + TDD discipline
+- Matt Pocock grill-me / handoff patterns
+- Popular marketplace categories: frontend, a11y, DevOps/CI, security, browser testing
+- Vercel-style frontend quality / anti-slop guidance (distilled, not copied)
 
 ## Criteria
 
@@ -26,12 +35,7 @@ Run:
 ./scripts/audit.sh
 ```
 
-Manual review confirmed:
-
-- 30 skills cover workflow, git/review, quality, engineering, language, and docs
-- Each skill has a single primary job
-- Install path documented for Cursor, Claude Code, and generic Agent Skills consumers
-- No secrets or executable payloads beyond install/audit shell helpers
+Manual review confirmed skills cover clarify → plan → build → verify → review → ship, plus meta routing and session hygiene.
 
 ## Follow-ups
 

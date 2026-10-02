@@ -8,7 +8,7 @@ cd coding-skills
 ./scripts/install.sh ~/.cursor/skills
 ```
 
-Pass any skills directory: `~/.claude/skills`, `~/.codex/skills`, `~/.config/opencode/skills`, or project `.cursor/skills` / `.claude/skills` / `.opencode/skills`.
+Pass any skills directory: `~/.claude/skills`, `~/.codex/skills`, `~/.gemini/skills`, `~/.config/opencode/skills`, or project `.cursor/skills` / `.claude/skills` / `.codex/skills` / `.gemini/skills` / `.opencode/skills`.
 
 See `skill-router`, [WORKFLOWS.md](WORKFLOWS.md), [CATALOG.md](CATALOG.md).
 

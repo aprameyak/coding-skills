@@ -15,7 +15,8 @@ Informed by popular public workflow packs (lifecycle skills, TDD/brainstorm/hand
 | OpenCode | `.opencode/skills/` or `~/.config/opencode/skills/` |
 
 ```bash
-git clone git@github.com:aprameyak/coding-skills.git
+git clone https://github.com/aprameyak/coding-skills.git
+# or: git clone git@github.com:aprameyak/coding-skills.git
 cd coding-skills
 ./scripts/install.sh ~/.cursor/skills
 ```
@@ -45,3 +46,7 @@ cp -R brainstorm ~/.cursor/skills/
 ```bash
 ./scripts/audit.sh
 ```
+
+## License
+
+MIT

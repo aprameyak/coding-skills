@@ -37,7 +37,12 @@ Run:
 
 Manual review confirmed skills cover clarify → plan → build → verify → review → ship, plus meta routing and session hygiene.
 
-## Follow-ups
+## Maintenance
 
 - Add stack-specific skills only when a concrete project needs them
 - Keep skills short; split into `reference.md` if a skill grows past ~150 lines
+
+## License
+
+MIT
+

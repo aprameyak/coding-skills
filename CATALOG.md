@@ -1,7 +1,5 @@
 # Catalog
 
-Sources informing this pack include popular Agent Skills ecosystems (Anthropic skills format, Addy Osmani agent-skills lifecycle, Superpowers/TDD+brainstorm patterns, Matt Pocock grill-me/handoff, Vercel frontend/a11y practices, and community marketplaces).
-
 ## Meta
 
 | Skill | Saves |
@@ -35,7 +33,7 @@ Sources informing this pack include popular Agent Skills ecosystems (Anthropic s
 | `write-tests` | Coverage gaps after the fact |
 | `frontend-design` | Generic AI UI |
 | `react-components` | Effect/state bugs |
-| `typescript-strict` | `any` sprawl |
+| `typescript-strict` | Unchecked any-type sprawl |
 | `python-quality` | Style / safety slips |
 | `api-design` | Inconsistent contracts |
 | `error-handling` | Silent failures |
